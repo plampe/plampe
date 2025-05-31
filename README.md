@@ -10,13 +10,6 @@
 
 ---
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/paola-lampe/)
-[![CodePen](https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://codepen.io/plampe)
-
----
-
 ## 💻 Tech Stack
 
 <div align="left">
@@ -43,6 +36,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="Unreal Engine" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="30" alt="Xcode" />
 </div>
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/paola-lampe/)
+[![CodePen](https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge)](https://codepen.io/plampe)
 
 ---
 
