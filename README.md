@@ -1,4 +1,4 @@
-<h2 align="left">👩‍💻 Frontend Developer in training — passionate about clean design & smooth user experiences  <br>🌎 Venezuelan heart 🇻🇪 ❤️ | Living the Canadian dream 🍁  <br>🎓 Academic roots in programming 🇨🇱 & software development 🇨🇦  <br>📚 Diplomas in hand, real-world experience loading...  <br>✨ Just one line of code away from creating something beautiful  <br>🚀 Eager to turn ideas into impactful interfaces  <br>☕ Fueled by curiosity, colors & coffee</h2>
+<h2 align="left">👩‍💻 Frontend Developer in training <br>🌎 Venezuelan heart 🇻🇪 ❤️ | Living the Canadian dream 🍁  <br>🎓 Academic roots in programming 🇨🇱 & software development 🇨🇦  <br>📚 Diplomas in hand, real-world experience loading...  <br>✨ Just one line of code away from creating something beautiful  <br>🚀 Eager to turn ideas into impactful interfaces  <br>☕ Fueled by curiosity, colors & coffee</h2>
 
 ###
 
