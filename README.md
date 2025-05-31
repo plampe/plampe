@@ -2,10 +2,6 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/57777480?s=400&u=bf0c5f45f600012bb5698b411d7f186d44535a29&v=4"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
